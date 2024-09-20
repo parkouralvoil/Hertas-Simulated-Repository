@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="yoyo" load_steps=2 format=3 uid="uid://deakexbmlgmaj"]
+
+[ext_resource type="Script" path="res://test.gd" id="1_qwhvd"]
+
+[resource]
+script = ExtResource("1_qwhvd")
+num = 0
